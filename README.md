@@ -2,4 +2,4 @@
 
 Just the first repository
 
-hi~programmer~
+hi programmer
